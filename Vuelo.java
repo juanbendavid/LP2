@@ -1,5 +1,5 @@
 public class Vuelo {
-    int []asientos;
+    boolean []asientos;
     
     public Vuelo(){
         
