@@ -51,7 +51,7 @@ public class mainVentas {
             }
             vendedor++;
         }
-
+        // llamando a la funcion para realiar el reporte
         VentasVendedor(arreglo, totalVendedor, totalProducto);
     }
 }
