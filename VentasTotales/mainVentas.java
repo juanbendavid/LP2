@@ -12,6 +12,7 @@ public class mainVentas {
                 System.out.printf("%15d",nota.total);
                 
             }
+            System.out.printf("%18d", totalProducto[i]);
             System.out.println("");
         }
         System.out.printf("%15s", "Total");
@@ -43,7 +44,6 @@ public class mainVentas {
                 totalProducto[j]+=total;
 
                 idProducto++;
-                //System.out.println("ho");
             }
             vendedor++;
         }
